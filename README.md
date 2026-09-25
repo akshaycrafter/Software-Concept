@@ -1,6 +1,6 @@
-# Terra Minimal — Designer & Engineer Portfolio
+# Software Concept — Designer & Engineer Portfolio
 
-Live: https://terra-minimal.akshaycodecrafter.workers.dev/
+Live: https://softwareconcept.example.com/
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -16,6 +16,12 @@ Live: https://terra-minimal.akshaycodecrafter.workers.dev/
 
 ![Process section](assets/preview-process.png)
 *"How I work" — a code-editor mockup paired with a short explanation of the process.*
+
+![About section](assets/preview-about.png)
+*The About section — background, working hours, spoken languages, and current availability.*
+
+![Experience section](assets/preview-experience.png)
+*The Experience timeline — a short, honest work history.*
 
 ![Contact section](assets/preview-contact.png)
 *The closing CTA and footer — a direct email link, CV link, and site navigation.*
@@ -35,7 +41,7 @@ A minimalist personal portfolio concept for a designer-engineer hybrid. I wanted
 
 _Tested on Chrome, Firefox, and Safari — fully responsive down to 375px._
 
-Live: https://terra-minimal.akshaycodecrafter.workers.dev/
+Live: https://softwareconcept.example.com/
 
 ## What's on the Page
 - **Hero** — a single headline, a short intro line, two CTAs
@@ -57,8 +63,8 @@ Most portfolio templates lean on big gradients or a hero video to feel "premium.
 
 ## Running It Locally
 ```bash
-git clone https://github.com/akshaycrafter/Terra-Minimal.git
-cd Terra-Minimal
+git clone <your-own-repo-url-here>
+cd software-concept
 # just open index.html in your browser — no build step needed
 ```
 
